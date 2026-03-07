@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://choi.github.io/sitemap.xml
+Sitemap: https://moon-ki8.github.io/mkchoi/sitemap.xml
