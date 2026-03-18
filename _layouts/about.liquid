@@ -67,7 +67,39 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-icons">
+          {% if site.data.socials.cv_pdf %}
+            <a href="{{ site.data.socials.cv_pdf | relative_url }}" title="CV" aria-label="CV">
+              <i class="ai ai-cv"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.email %}
+            <a href="mailto:{{ site.data.socials.email }}" title="Email" aria-label="Email">
+              <i class="fa-solid fa-envelope"></i>
+            </a>
+          {% endif %}
+          {% if site.data.socials.scholar_url %}
+            <a
+              href="{{ site.data.socials.scholar_url }}"
+              title="Google Scholar"
+              aria-label="Google Scholar"
+              rel="external nofollow noopener"
+              target="_blank"
+            >
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          {% elsif site.data.socials.scholar_userid %}
+            <a
+              href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}"
+              title="Google Scholar"
+              aria-label="Google Scholar"
+              rel="external nofollow noopener"
+              target="_blank"
+            >
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          {% endif %}
+        </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>

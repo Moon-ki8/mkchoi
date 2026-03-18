@@ -11,6 +11,18 @@
           <div class="card-body">
             <h3 class="card-title">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
+            {% if project.related_papers %}
+              <div class="card-text small">
+                <strong>Related papers</strong>
+              </div>
+              {% for paper in project.related_papers limit: 2 %}
+                <div class="card-text small">{{ paper.title }}</div>
+              {% endfor %}
+              {% assign extra_papers = project.related_papers | size | minus: 2 %}
+              {% if extra_papers > 0 %}
+                <div class="card-text small">+{{ extra_papers }} more</div>
+              {% endif %}
+            {% endif %}
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
                 <div class="github-icon">

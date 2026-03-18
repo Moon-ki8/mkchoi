@@ -1,0 +1,334 @@
+\documentclass[11pt]{article}
+\usepackage{bibentry}
+\renewcommand{\baselinestretch}{1.1} % 줄간격 (line spacing) 약간 증가
+\fontdimen2\font=2.0em % 글자 사이 자간 조절 (기본: 0.25em 근처)
+%----- Packages -----
+\usepackage[margin=0.6in]{geometry}     % Adjust margins
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref} % For hyperlinks
+% For hyperlinks
+\usepackage{tabularx}                 % For tables without visible lines
+\usepackage{enumitem}                 % For customizing itemize lists
+\usepackage{lmodern}                  % Better fonts
+\usepackage[T1]{fontenc}              % Font encoding
+\usepackage[defernumbers=true,backend=biber,style=phys,sorting=ydnt,biblabel=brackets,maxnames=99,  maxbibnames=99, maxcitenames=99,  minbibnames=1, mincitenames=1]{biblatex}
+\addbibresource{cv_references.bib}  % Make sure 
+
+\DeclareFieldFormat[article,misc]{title}{``\textbf{#1}''}
+\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}}
+\DeclareFieldFormat{howpublished}{\mkbibemph{#1}}
+%\DeclareFieldFormat{volume}{#1} 
+\DeclareFieldFormat[article]{volume}{#1}
+
+% Reverse the numbering order
+%----- Document Starts -----
+\begin{document}
+%=============================
+%      Header Section
+%=============================
+\begin{center}
+    {\LARGE \textbf{Moon-ki Choi}}\\[0.5em]
+    {\large Postdoctoral Researcher}\\[0em]
+    Materials Research Laboratory, \textit{University of Illinois Urbana-Champaign}\\[0.0em]
+    % If you have a personal website, replace the URL below.
+\href{https://sites.google.com/view/moonkichoi/}{Personal website}
+    $\vert$ \href{https://scholar.google.com/citations?user=0-gjySkAAAAJ&hl=en&oi=ao}{Google scholar}
+\end{center}
+\vspace{-1.32em}
+\begin{center}
+    Email: \href{mailto:choi0652@illinois.edu}{choi0652@illinois.edu}  $\vert$ Phone: +1 612-229-9732
+\end{center}
+\vspace{-3em}
+%=============================
+%      Education Section
+%=============================
+\section*{Education}\vspace{-0.7em}\hrule
+\vspace{1.0em}
+\begin{tabularx}{\textwidth}{@{} l X @{}}
+    \textbf{2018--2023} & \textbf{Ph.D. in Aerospace Engineering and Mechanics} \\
+                       & \textit{University of Minnesota Twin Cities, MN, USA}\\
+                       & \quad \textbullet \, Advisor: Prof. Ellad B. Tadmor\\
+                       & \quad \textbullet \, Thesis: Atomistic and continuum simulations of 2D materials with environmental effects \\
+                       [1em]
+    \textbf{2016--2018} & \textbf{M.S. in Mechanical Engineering} \\
+                       & \textit{Sungkyunkwan University, South Korea}\\
+                       & \quad \textbullet \, Advisor: Prof. Moon Ki Kim\\
+                       & \quad \textbullet \, Thesis: Atomic simulation of membrane and its bio-nano organelles\\[1em]
+    \textbf{2009--2016} & \textbf{B.S. in Mechanical Engineering} \\
+                       & \textit{Sungkyunkwan University, South Korea}\\
+\end{tabularx}
+\vspace{-1.0em}
+%=============================
+%   Research interest
+%=============================
+\section*{Research Interests}
+\vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\renewcommand{\arraystretch}{1.2} % 1.0이 기본
+\begin{tabularx}{\textwidth}{@{} l X @{}}
+
+\textbf{Multiscale Modeling} &
+\textit{Continuum mechanics; Molecular dynamics; Quantum mechanics} \\
+& Integrated simulation frameworks that connect quantum, atomistic, and continuum scales for predicting mechanical and electronic properties of materials.\\[0.3em]
+
+\textbf{Quantum Materials} &
+\textit{2D materials; Topological insulator; Strain and defect engineering} \\
+& Atomic-scale defects, large-scale strain fields, and electronic structure of quantum materials. \\[0.3em]
+
+\textbf{Machine Learning for Materials} &
+\textit{Graph neural networks; Gaussian regression} \\
+& Physics-informed machine learning models to accelerate multiscale simulations cosidering uncertainty. \\
+
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0} % 원래대로 돌려놓기
+%=============================
+%   Research Experiences
+%=============================
+\vspace{-1.0em}
+\section*{Research Experience}
+\vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\renewcommand{\arraystretch}{1.2} % 1.0이 기본
+\begin{tabularx}{\textwidth}{@{} l X @{}}
+    \textbf{2023--present} & \textbf{Postdoctoral Researcher} \\
+                          & \textit{University of Illinois  Urbana--Champaign, IL, USA} \\ 
+                          & \quad \textbullet \, Advisor: Prof. Harley  T. Johnson \\[0em]
+    \textbf{2019--2023}  & \textbf{Research Assistant} \\
+                          & \textit{University of Minnesota  Twin Cities, MN, USA} \\[0em]
+    \textbf{2018--2019}  & \textbf{Teaching Assistant} \\
+                          & \textit{University of Minnesota  Twin Cities, MN, USA}
+\end{tabularx}
+\begin{tabularx}{\textwidth}{@{} l X @{}}
+    \textbf{Summer 2017}  & \textbf{Visiting Student} \\
+                          & \textit{University of Cincinnati, OH, USA}\\[0em]
+    \textbf{2016--2018}  & \textbf{Research Assistant} \\
+                          & \textit{Sungkyunkwan University, South Korea}\\
+                          & Material Strength \& Computational Bioengineering Laboratory\\[0em]
+    \textbf{Fall 2015}    & \textbf{Undergraduate Researcher} \\
+                          & \textit{Sungkyunkwan University, South Korea}\\
+                          & Material Strength \& Computational Bioengineering Laboratory\\
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0} % 원래대로 돌려놓기
+\vspace{1em}
+
+
+
+
+
+%=============================
+%        Publications
+%=============================
+\section*{Publications}\vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\# indicates co-first authorship.
+\vspace{-0.5em}
+\nocite{*}
+\printbibliography[
+    title={\small In Preparation},
+    resetnumbers=true,
+    keyword=inp
+]
+\printbibliography[
+    title={\small Under Review/In Revision},
+    resetnumbers=true,
+    keyword=inr
+]
+\printbibliography[
+    title={\small Preprint},
+    resetnumbers=true,
+    keyword=preprint
+]
+
+
+%\printbibliography[title=In Preparation Under Revision In Revision,resetnumbers=true,keyword=nopub]
+\vspace{-1.5em}
+\printbibliography[title={\small Published/Accepted},resetnumbers=true,keyword=pub]
+
+\newpage
+\section*{Skills} \vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\renewcommand{\arraystretch}{1.2} % 1.0이 기본
+\begin{tabularx}{\textwidth}{@{} l X @{}}
+\textbf{Computational Language} 
+    & Python, C++, Fortran90, MATLAB \\
+\textbf{Quantum Mechanics Simulation} 
+    & Quantum Espresso, Wannier90, Pythtb, ASE \\
+\textbf{Classical Atomistic Simulation} 
+    & LAMMPS, GROMACS, ASE \\
+\textbf{Continuum Model Simulation} 
+    &  Abaqus, FEniCS \\
+\textbf{Miscellaneous} 
+    & Linux, Git, LaTeX, OpenMP
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0} % 1.0이 기본
+
+
+\section*{Research Funding Experience} \vspace{-0.7em} 
+\hrule
+\vspace{1.0em}
+\renewcommand{\arraystretch}{1.4} % 1.0이 기본
+\begin{tabularx}{\textwidth}{@{} l X l r @{}}
+    \parbox[t]{0.32\textwidth}{
+    \textbf{National high-performance computing resource program} \\ 
+    National Science Foundation (NSF)} 
+    & \textit{\textbf{Role: PI}} 
+    & \parbox[t]{0.27\textwidth}{
+    1,900,000 Service Units \\ (\textbf{$\approx$ 1,900,000 CPU hours}) awarded}   
+    & 2024–2028 \\
+    
+    \parbox[t]{0.32\textwidth}{
+    \textbf{National high-performance computing resource program} \\ 
+    National Science Foundation (NSF)}
+    & \textit{\textbf{Role: PI}} 
+    & \parbox[t]{0.27\textwidth}{
+    4,200,000 Service Units \\ (\textbf{$\approx$ 4,200,000 CPU hours}) awarded}   
+    & 2024–2026 \\
+    
+    \parbox[t]{0.32\textwidth}{
+    \textbf{Early Career Research Program} \\National Research Funding, South Korea}
+    & \textit{\textbf{Role: Co-PI}} 
+    & Proposal preparation and submission
+    & 2025 \\
+
+    \parbox[t]{0.32\textwidth}{
+    \textbf{Scholarship and Teaching for Engineering Postdocs Program} \\ 
+    University of Illinois Urbana–Champaign} 
+    & \textit{\textbf{Role: Trainee}}  
+    & \parbox[t]{0.32\textwidth}{Training in research proposal writing and grant development}
+    & 2024
+    
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0} % 원래대로 돌려
+\section*{Awards and Honors} \vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\renewcommand{\arraystretch}{1.2} % 1.0이 기본
+\begin{tabularx}{\textwidth}{@{} l X r @{}}
+    \parbox[t]{0.4\textwidth}{\textbf{Best Poster Prize }\\ 
+    (sponsored by \textit{Journal of Materials Science: Material Theory}, \$200)} & \textit{Nanomaterials 2025, U.S. National Congress on Computational Mechanics (USACM)} & 2025 \\
+    \textbf{Travel Award} & \textit{Nanomaterials 2025, U.S. National Congress on Computational Mechanics (USACM)} & 2025 \\
+    \parbox[t]{0.4\textwidth}{\textbf{Doctoral Dissertation Fellowship} \\ (\$25,000 + tuition)} & \textit{University of Minnesota Twin cities} & 2023 \\
+    \textbf{Outstanding Poster Award} & \textit{Korea MultiScale Mechanics Society} & 2017 \\
+    \textbf{Outstanding Poster Award} & \textit{Korean BioChip Society} & 2017 \\
+    \textbf{Excellence Award for Oral Presentation} & \textit{Sungkyunkwan University} & 2016 \\
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0} % 원래대로 돌려놓기
+
+
+
+
+%\vspace{-0.7em}
+%\hrule
+%\vspace{1.0em}
+%* indicates co-first authorship.
+%\vspace{-0.5em}
+%\nocite{*}
+
+\newpage
+\section*{Presentations}\vspace{-0.7em}
+\hrule
+\vspace{1.5em}
+\printbibliography[heading=none,resetnumbers=true,keyword=presentation]
+
+\newpage
+\section*{Teaching Experience}\vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\textwidth}{@{} l X X r @{}}
+
+\parbox[t]{0.42\textwidth}{\textbf{Introduction to Molecular Dynamics Simulation}} & Invited Lecturer & \textit{Ajou University, South Korea} & 2025 \\
+
+\parbox[t]{0.42\textwidth}{\textbf{Multiscale Methods for Bridging Length and Time Scales (AEM 8551)}} & Course Material Contributor & \textit{University of Minnesota Twin Cities} & 2022 \\
+
+\parbox[t]{0.42\textwidth}{\textbf{Composite Materials (AEM 4511)}} & Teaching Assistant & \textit{University of Minnesota Twin Cities} & 2019 \\
+
+\parbox[t]{0.42\textwidth}{\textbf{Mathematical Modeling and Simulation in Aerospace Engineering (AEM 3101)}} & Teaching Assistant & \textit{University of Minnesota Twin Cities} & 2018 
+
+%\parbox[t]{0.42\textwidth}%{\textbf{Structural Elasticity}} & Substitute Lecturer & \textit{Sungkyunkwan University, South Korea} & 2017 
+
+\end{tabularx}
+
+
+\section*{Teaching Interests}\vspace{-0.7em}
+\hrule
+\vspace{0.8em}
+
+Solid mechanics, Continuum Mechanics, Machine learning, Computational Mechanics,  Elasticity, Multiscale modeling, Molecular dynamics simulation, Modeling Material, Mechanics of Materials, Statics, Dynamics, Numerical Methods.
+
+
+\section*{Research Mentoring}\vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\textwidth}{@{} l X X r @{}}
+
+\textbf{Sharon Edward} &
+University of Illinois Urbana--Champaign &
+Kinetic Monte Carlo simulation for Thermal Protection System &
+2023--present \\
+
+\textbf{Marios Sotiriou} &
+University of Illinois Urbana--Champaign &
+Tight-binding model and atomistic simulation for Topological Insulators with defects &
+2023--present \\
+
+\textbf{Georgia Robles} &
+University of Minnesota Twin Cities &
+Gas reservoir atomistic simulation for Nanoparticle Coalescence&
+2025--present \\
+
+\textbf{Aayushi Bohrey} &
+University of Minnesota Twin Cities &
+Gas reservoir atomistic simulation for Nanoparticle Coalescence &
+2025--present \\
+
+\textbf{Ji Suk Park} &
+Ajou University, South Korea &
+Covalent Organic Framework atomistic simulation &
+2024--present \\
+
+\end{tabularx}
+
+
+%\renewcommand{\arraystretch}{1.0} % 원래대로 돌려놓기
+%\section*{Research Advising}\vspace{-0.7em}
+%\hrule
+%\vspace{1.0em}
+%\begin{tabularx}{\textwidth}{@{} l X X r @{}}
+%    Georgia Robles & Ph.D. student &\textit{University of Minnesota Twin Cities, MN, USA} & 2024--Present \\
+    %Aayushi Bohrey & Ph.D. student & \textit{University of Minnesota Twin Cities, MN, USA} & 2024--Present \\
+    %Sharon Edwards & Ph.D. student & \textit{University of Illinois Urbana-Champaign, IL, USA} & 2023--Present \\
+    %Marios Sotiriou & Ph.D. student & \textit{University of Illinois Urbana-Champaign, IL, USA} & 2023--Present \\
+    %Tusher Ahmed & Ph.D. student & \textit{University of Illinois Urbana-Champaign, IL, USA} & 2023--2024 \\
+    %Dharamveer Kumar & Ph.D. student & \textit{University of Minnesota Twin Cities, MN, USA} & 2020 \\
+%\end{tabularx}
+
+\section*{Service}\vspace{-0.7em}
+\hrule
+\vspace{1.0em}
+\begin{tabularx}{\textwidth}{@{} l X r @{}}
+
+\textbf{Symposium Organizer} & \textit{18th U.S. National Congress on Computational Mechanics} & 2025 \\
+
+\textbf{Reviewer} &
+\textit{Journal of the Mechanics and Physics of Solids (JMPS), Extreme Mechanics Letters (EML), Computer Methods in Applied Mechanics and Engineering (CMAME), Extreme Mechanics Letters (EML), International Journal of Mechanical Sciences (IJMS)} & 
+2019--present \\
+
+\end{tabularx}
+%\section*{References}\vspace{-0.7em}
+%\hrule
+%\vspace{1.0em}
+%\begin{tabularx}{\textwidth}{@{} l X r @{}}
+%\textbf{Ellad B. Tadmor, Ph.D.} & \textit{Professor, University of Minnesota Twin Cities} & tadmor@umn.edu \\
+%\textbf{Harley T. Johnson, Ph.D.} & \textit{Professor, University of Illinois Urbana-Champaign} & htj@illinois.edu \\
+%\textbf{Nikhil Chandra Admal, Ph.D.} & \textit{Assistant Professor, University of Illinois Urbana-Champaign} & admal@illinois.edu \\
+%\textbf{Rachel Goldman, Ph.D.} & \textit{Professor, University of Michigan Ann Arbor} & rsgold@umich.edu \\
+%\end{tabularx}
+
+
+
+\end{document}

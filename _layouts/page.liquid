@@ -18,6 +18,25 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.related_papers %}
+    <h2>Related Papers</h2>
+    <ul>
+      {% for paper in page.related_papers %}
+        <li>
+          {% if paper.url %}
+            {% if paper.url contains '://' %}
+              <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+            {% else %}
+              <a href="{{ paper.url | relative_url }}">{{ paper.title }}</a>
+            {% endif %}
+          {% else %}
+            {{ paper.title }}
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
