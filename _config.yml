@@ -7,7 +7,7 @@ first_name: Moon-ki
 middle_name:
 last_name: Choi
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  "More is Different" — P. W. Anderson, Nobel Laureate in Physics.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
