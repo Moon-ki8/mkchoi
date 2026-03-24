@@ -13,3 +13,13 @@ assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
 vendor
+my_cv/*.aux
+my_cv/*.bbl
+my_cv/*.bcf
+my_cv/*.fdb_latexmk
+my_cv/*.fls
+my_cv/*.log
+my_cv/*.out
+my_cv/*.run.xml
+my_cv/*.synctex.gz
+my_cv/cv.pdf
