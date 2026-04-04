@@ -52,6 +52,7 @@
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
+      {% assign self_author_style = 'font-style: normal; font-weight: 700; text-decoration: underline;' %}
       {% assign scholar_last_names = site.scholar.last_name
         | join: '|'
         | downcase
@@ -104,10 +105,10 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em class="author-self">
+          <span style="{{ self_author_style }}">
             {{- author.first }}
             {{ author_last_html -}}
-          </em>
+          </span>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
@@ -151,10 +152,10 @@
             {%- endif -%}
             {% unless forloop.first %}, {% endunless %}
             {%- if author_is_self -%}
-              <em class="author-self">
+              <span style="{{ self_author_style }}">
                 {{- author.first }}
                 {{ author_last_html -}}
-              </em>
+              </span>
             {%- else -%}
               {%- if coauthor_url -%}
                 <a href="{{ coauthor_url }}">
