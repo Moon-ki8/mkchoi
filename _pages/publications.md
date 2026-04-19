@@ -12,7 +12,7 @@ nav_order: 2
 <div class="publications">
   <p>
     Publications are listed in reverse chronological order. For an up-to-date list, see
-    <a class="gs-link" href="https://scholar.google.com/citations?user=0-gjySkAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
+    <a class="gs-link" href="https://scholar.google.com/citations?user=gnDTmI4AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>.
   </p>
 
   <h2>Preprint</h2>

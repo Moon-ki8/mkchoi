@@ -63,7 +63,7 @@ nav_order: 2
 - [Elastic plate basis for the deformation and electron diffraction of twisted bilayer graphene on a substrate]({{ '/publications/#choi2024elastic' | relative_url }})
 - [Quantifying Superlubricity of Bilayer Graphene from the Mobility of Interface Dislocations]({{ '/publications/#ahmed2025quantifying' | relative_url }})
 
-## Bio Materials
+## Bio-Nano Materials
 
 <div class="row mt-3 research-preview-strip">
   <div class="col-4 px-1">
@@ -72,8 +72,8 @@ nav_order: 2
     </a>
   </div>
   <div class="col-4 px-1">
-    <a href="{{ '/publications/#park2025accelerated' | relative_url }}">
-      <img src="{{ '/assets/img/publication_preview/accelerated_molecular_dynamics.png' | relative_url }}" alt="Accelerated molecular dynamics preview" loading="lazy">
+    <a href="{{ '/publications/#choi2026interlocked' | relative_url }}">
+      <img src="{{ '/assets/img/publication_preview/cof500.gif' | relative_url }}" alt="Interlocked woven COFs preview" loading="lazy">
     </a>
   </div>
   <div class="col-4 px-1">
@@ -83,12 +83,12 @@ nav_order: 2
   </div>
 </div>
 
-<p>My work on <strong>bio materials</strong> focuses on <strong>membranes</strong>, <strong>nanochannels</strong>, and <strong>biomolecular dynamics</strong>, where molecular simulation is used to understand <strong>transport</strong>, <strong>collective motion</strong>, and structure-property relationships in <strong>soft matter</strong> and <strong>bio-inspired systems</strong>.</p>
+<p>My work on <strong>bio-nano materials</strong> focuses on <strong>membranes</strong>, <strong>nanochannels</strong>, and <strong>molecularly engineered soft materials</strong>, where molecular simulation is used to understand <strong>transport</strong>, <strong>collective motion</strong>, and structure-property relationships in <strong>soft matter</strong> and <strong>bio-inspired systems</strong>.</p>
 
 ### Related papers
 
 - [Facilitated water transport through Graphene oxide membranes functionalized with aquaporin-mimicking peptides]({{ '/publications/#lee2018facilitated' | relative_url }})
-- [An accelerated molecular dynamics study for investigating protein pathways using the bond-boost hyperdynamics method]({{ '/publications/#park2025accelerated' | relative_url }})
+- [Interlocked Woven COFs as Molecular Metamaterials with Snap-through and Jamming Mechanics]({{ '/publications/#choi2026interlocked' | relative_url }})
 - [2D Silver Nanosheet Assembly for an Isotropic, Stretchable, and Highly Conductive Nanomembrane]({{ '/publications/#7' | relative_url }})
 
 <style>
