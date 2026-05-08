@@ -1,91 +1,99 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-05-08'
 papers:
-  0-gjySkAAAAJ:0EnyYjriUFMC:
-    citations: 4
-    title: Elastic plate basis for the deformation and electron diffraction of twisted bilayer graphene on a substrate
-    year: '2024'
-  0-gjySkAAAAJ:4DMP91E08xMC:
-    citations: 0
-    title: 2D Silver Nanosheet Assembly for an Isotropic, Stretchable, and Highly Conductive Nanomembrane
-    year: '2025'
-  0-gjySkAAAAJ:5nxA0vEk-isC:
-    citations: 0
-    title: Application of Time Series Analysis on Kinetic Monte Carlo Simulations of Hyperthermal Oxidation of Graphite
-    year: '2025'
-  0-gjySkAAAAJ:8k81kl-MbHgC:
-    citations: 2
-    title: Mechanics of out-of-plane screw dislocation in a 2D material
-    year: '2025'
-  0-gjySkAAAAJ:9ZlFYXVOiuMC:
-    citations: 0
-    title: Statistical mechanics of a 2D material in a gas reservoir
-    year: '2026'
-  0-gjySkAAAAJ:IjCSPb-OGe4C:
-    citations: 3
-    title: Dynamic characteristics of a flagellar motor protein analyzed using an elastic network model
-    year: '2017'
-  0-gjySkAAAAJ:MXK_kJrjxJIC:
-    citations: 4
-    title: Quantifying Superlubricity of Bilayer Graphene from the Mobility of Interface Dislocations
-    year: '2025'
-  0-gjySkAAAAJ:Se3iqnhoufwC:
-    citations: 4
-    title: Atomistically-informed continuum modeling and isogeometric analysis of 2D materials over holey substrates
-    year: '2023'
-  0-gjySkAAAAJ:ULOm3_A8WrAC:
-    citations: 0
-    title: Interatomic potential development for topological insulator Bi1-xSbx and its dislocation by force-following active learning
-    year: '2025'
-  0-gjySkAAAAJ:UeHWp8X0CEIC:
-    citations: 11
-    title: Normal mode analysis of Zika virus
-    year: '2018'
-  0-gjySkAAAAJ:Wp0gIr-vW9MC:
-    citations: 0
-    title: Probing Topological Surface States and Conduction via Extended Defects in (BiSb)Te Films
-    year: '2025'
-  0-gjySkAAAAJ:YOwf2qJgpHMC:
-    citations: 0
-    title: 'Graph Neural Network for Unified Electronic and Interatomic Potentials: Strain-tunable Electronic Structures in 2D Materials'
-    year: '2025'
-  0-gjySkAAAAJ:YsMSGLbcyi4C:
-    citations: 9
-    title: Understanding carbon nanotube channel formation in the lipid membrane
-    year: '2018'
-  0-gjySkAAAAJ:Zph67rFs4hoC:
-    citations: 0
-    title: Coupling DSMC and AKMC to simulate graphite erosion due to hyperthermal oxidation at the nanoscale
-    year: '2026'
-  0-gjySkAAAAJ:_kc_bZDykSQC:
-    citations: 0
-    title: Atomistic and Continuum Simulations of 2D Materials With Environmental Effects
-    year: '2023'
-  0-gjySkAAAAJ:eQOLeE2rZwMC:
-    citations: 23
-    title: Fabrication and characterization of zeolitic imidazolate framework-embedded cellulose acetate membranes for osmotically driven membrane process
-    year: '2019'
-  0-gjySkAAAAJ:hqOjcs7Dif8C:
-    citations: 55
-    title: Type label framework for bonded force fields in LAMMPS
-    year: '2024'
-  0-gjySkAAAAJ:kNdYIx-mwKoC:
-    citations: 0
-    title: "An accelerated molecular dynamics study for investigating protein pathways using the bond\u2010boost hyperdynamics method"
-    year: '2025'
-  0-gjySkAAAAJ:qjMakFHDy7sC:
-    citations: 7
-    title: Effects of aquaporin-lipid molar ratio on the permeability of an aquaporin Z-phospholipid membrane system
-    year: '2020'
-  0-gjySkAAAAJ:roLk4NBRz8UC:
+  gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 95
     title: "Facilitated water transport through Graphene oxide membranes functionalized with aquaporin\u2010mimicking peptides"
     year: '2018'
-  0-gjySkAAAAJ:ufrVoPGSRksC:
+  gnDTmI4AAAAJ:2osOgNQ5qMEC:
     citations: 17
-    title: Holey Substrate-Directed Strain Patterning in Bilayer MoS2
+    title: Holey substrate-directed strain patterning in bilayer MoS2
     year: '2021'
-  0-gjySkAAAAJ:zYLM7Y9cAGgC:
+  gnDTmI4AAAAJ:3fE2CSJIrl8C:
+    citations: 7
+    title: Effects of aquaporin-lipid molar ratio on the permeability of an aquaporin Z-phospholipid membrane system
+    year: '2020'
+  gnDTmI4AAAAJ:5nxA0vEk-isC:
+    citations: 23
+    title: Fabrication and characterization of zeolitic imidazolate framework-embedded cellulose acetate membranes for osmotically driven membrane process
+    year: '2019'
+  gnDTmI4AAAAJ:8k81kl-MbHgC:
+    citations: 11
+    title: Normal mode analysis of Zika virus
+    year: '2018'
+  gnDTmI4AAAAJ:9yKSN-GCB0IC:
+    citations: 4
+    title: Elastic plate basis for the deformation and electron diffraction of twisted bilayer graphene on a substrate
+    year: '2024'
+  gnDTmI4AAAAJ:IjCSPb-OGe4C:
+    citations: 4
+    title: Atomistically-informed continuum modeling and isogeometric analysis of 2D materials over holey substrates
+    year: '2023'
+  gnDTmI4AAAAJ:KlAtU1dfN6UC:
+    citations: 3
+    title: Dynamic characteristics of a flagellar motor protein analyzed using an elastic network model
+    year: '2017'
+  gnDTmI4AAAAJ:MXK_kJrjxJIC:
     citations: 18
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
+  gnDTmI4AAAAJ:Se3iqnhoufwC:
+    citations: 61
+    title: Type label framework for bonded force fields in LAMMPS
+    year: '2024'
+  gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
+    citations: 4
+    title: Quantifying Superlubricity of Bilayer Graphene from the Mobility of Interface Dislocations
+    year: '2025'
+  gnDTmI4AAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: Statistical mechanics of a 2D material in a gas reservoir
+    year: '2026'
+  gnDTmI4AAAAJ:UebtZRa9Y70C:
+    citations: 2
+    title: "An accelerated molecular dynamics study for investigating protein pathways using the bond\u2010boost hyperdynamics method"
+    year: '2025'
+  gnDTmI4AAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Emerging conduction pathways in semiconducting bismuth-antimony alloys
+    year: '2026'
+  gnDTmI4AAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Coupling DSMC and AKMC to simulate graphite erosion due to hyperthermal oxidation at the nanoscale
+    year: '2026'
+  gnDTmI4AAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Interatomic potential development for topological insulator Bi1-xSbx and its dislocation by force-following active learning
+    year: '2025'
+  gnDTmI4AAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Interlocked Woven COFs as Molecular Metamaterials with Snap-through and Jamming Mechanics
+    year: '2026'
+  gnDTmI4AAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Atomistic and Continuum Simulations of 2D Materials With Environmental Effects
+    year: '2023'
+  gnDTmI4AAAAJ:kNdYIx-mwKoC:
+    citations: 2
+    title: 2D Silver Nanosheet Assembly for an Isotropic, Stretchable, and Highly Conductive Nanomembrane
+    year: '2025'
+  gnDTmI4AAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Probing Topological Surface States and Conduction via Extended Defects in (BiSb)Te Films
+    year: '2025'
+  gnDTmI4AAAAJ:u-x6o8ySG0sC:
+    citations: 1
+    title: Application of Time Series Analysis on Kinetic Monte Carlo Simulations of Hyperthermal Oxidation of Graphite
+    year: '2025'
+  gnDTmI4AAAAJ:u5HHmVD_uO8C:
+    citations: 9
+    title: Understanding carbon nanotube channel formation in the lipid membrane
+    year: '2018'
+  gnDTmI4AAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: 'Graph Neural Network for Unified Electronic and Interatomic Potentials: Strain-tunable Electronic Structures in 2D Materials'
+    year: '2025'
+  gnDTmI4AAAAJ:zYLM7Y9cAGgC:
+    citations: 2
+    title: Mechanics of out-of-plane screw dislocation in a 2D material
+    year: '2025'
