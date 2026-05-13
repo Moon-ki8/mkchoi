@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-13'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 95
@@ -38,7 +38,7 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 61
+    citations: 62
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
