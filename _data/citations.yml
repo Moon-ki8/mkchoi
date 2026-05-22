@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-22'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 95
@@ -14,7 +14,7 @@ papers:
     title: Effects of aquaporin-lipid molar ratio on the permeability of an aquaporin Z-phospholipid membrane system
     year: '2020'
   gnDTmI4AAAAJ:5nxA0vEk-isC:
-    citations: 23
+    citations: 24
     title: Fabrication and characterization of zeolitic imidazolate framework-embedded cellulose acetate membranes for osmotically driven membrane process
     year: '2019'
   gnDTmI4AAAAJ:8k81kl-MbHgC:
@@ -38,7 +38,7 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 62
+    citations: 64
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
