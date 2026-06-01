@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-01'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 95
@@ -14,7 +14,7 @@ papers:
     title: Effects of aquaporin-lipid molar ratio on the permeability of an aquaporin Z-phospholipid membrane system
     year: '2020'
   gnDTmI4AAAAJ:5nxA0vEk-isC:
-    citations: 24
+    citations: 23
     title: Fabrication and characterization of zeolitic imidazolate framework-embedded cellulose acetate membranes for osmotically driven membrane process
     year: '2019'
   gnDTmI4AAAAJ:8k81kl-MbHgC:
@@ -38,7 +38,7 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 64
+    citations: 68
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: "An accelerated molecular dynamics study for investigating protein pathways using the bond\u2010boost hyperdynamics method"
     year: '2025'
   gnDTmI4AAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: Emerging conduction pathways in semiconducting bismuth-antimony alloys
     year: '2026'
   gnDTmI4AAAAJ:Y0pCki6q_DkC:
