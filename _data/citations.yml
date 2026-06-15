@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 95
@@ -38,11 +38,11 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 69
+    citations: 70
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: Quantifying Superlubricity of Bilayer Graphene from the Mobility of Interface Dislocations
     year: '2025'
   gnDTmI4AAAAJ:ULOm3_A8WrAC:
@@ -58,12 +58,16 @@ papers:
     title: "An accelerated molecular dynamics study for investigating protein pathways using the bond\u2010boost hyperdynamics method"
     year: '2025'
   gnDTmI4AAAAJ:WF5omc3nYNoC:
-    citations: 1
+    citations: 0
     title: Emerging conduction pathways in semiconducting bismuth-antimony alloys
     year: '2026'
   gnDTmI4AAAAJ:Y0pCki6q_DkC:
-    citations: 0
+    citations: 1
     title: Coupling DSMC and AKMC to simulate graphite erosion due to hyperthermal oxidation at the nanoscale
+    year: '2026'
+  gnDTmI4AAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: "Uncertainty quantification in stochastic simulations of nitrogen\u2013carbon gas\u2013surface interactions"
     year: '2026'
   gnDTmI4AAAAJ:Zph67rFs4hoC:
     citations: 0
@@ -82,7 +86,7 @@ papers:
     title: Probing Topological Surface States and Conduction via Extended Defects in (BiSb)Te Films
     year: '2025'
   gnDTmI4AAAAJ:u-x6o8ySG0sC:
-    citations: 1
+    citations: 2
     title: Application of Time Series Analysis on Kinetic Monte Carlo Simulations of Hyperthermal Oxidation of Graphite
     year: '2025'
   gnDTmI4AAAAJ:u5HHmVD_uO8C:
