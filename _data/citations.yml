@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-26'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 95
     title: "Facilitated water transport through Graphene oxide membranes functionalized with aquaporin\u2010mimicking peptides"
     year: '2018'
   gnDTmI4AAAAJ:2osOgNQ5qMEC:
-    citations: 17
+    citations: 18
     title: Holey substrate-directed strain patterning in bilayer MoS2
     year: '2021'
   gnDTmI4AAAAJ:3fE2CSJIrl8C:
@@ -38,7 +38,7 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 70
+    citations: 72
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
@@ -58,7 +58,7 @@ papers:
     title: "An accelerated molecular dynamics study for investigating protein pathways using the bond\u2010boost hyperdynamics method"
     year: '2025'
   gnDTmI4AAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: Emerging conduction pathways in semiconducting bismuth-antimony alloys
     year: '2026'
   gnDTmI4AAAAJ:Y0pCki6q_DkC:
