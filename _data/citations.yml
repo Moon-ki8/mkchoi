@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-22'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
-    citations: 95
+    citations: 96
     title: "Facilitated water transport through Graphene oxide membranes functionalized with aquaporin\u2010mimicking peptides"
     year: '2018'
   gnDTmI4AAAAJ:2osOgNQ5qMEC:
@@ -38,7 +38,7 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 75
+    citations: 79
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
@@ -58,7 +58,7 @@ papers:
     title: "An accelerated molecular dynamics study for investigating protein pathways using the bond\u2010boost hyperdynamics method"
     year: '2025'
   gnDTmI4AAAAJ:WF5omc3nYNoC:
-    citations: 1
+    citations: 2
     title: Emerging conduction pathways in semiconducting bismuth-antimony alloys
     year: '2026'
   gnDTmI4AAAAJ:Y0pCki6q_DkC:
@@ -73,12 +73,16 @@ papers:
     citations: 0
     title: Interlocked Woven COFs as Molecular Metamaterials with Snap-through and Jamming Mechanics
     year: '2026'
+  gnDTmI4AAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Generation and characterization of extended-length dislocations in BiSb alloys
+    year: '2026'
   gnDTmI4AAAAJ:hqOjcs7Dif8C:
     citations: 0
     title: Atomistic and Continuum Simulations of 2D Materials With Environmental Effects
     year: '2023'
   gnDTmI4AAAAJ:kNdYIx-mwKoC:
-    citations: 2
+    citations: 3
     title: 2D Silver Nanosheet Assembly for an Isotropic, Stretchable, and Highly Conductive Nanomembrane
     year: '2025'
   gnDTmI4AAAAJ:qjMakFHDy7sC:
