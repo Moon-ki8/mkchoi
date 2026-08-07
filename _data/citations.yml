@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 96
@@ -14,7 +14,7 @@ papers:
     title: Effects of aquaporin-lipid molar ratio on the permeability of an aquaporin Z-phospholipid membrane system
     year: '2020'
   gnDTmI4AAAAJ:5nxA0vEk-isC:
-    citations: 24
+    citations: 25
     title: Fabrication and characterization of zeolitic imidazolate framework-embedded cellulose acetate membranes for osmotically driven membrane process
     year: '2019'
   gnDTmI4AAAAJ:8k81kl-MbHgC:
@@ -22,7 +22,7 @@ papers:
     title: Normal mode analysis of Zika virus
     year: '2018'
   gnDTmI4AAAAJ:9yKSN-GCB0IC:
-    citations: 4
+    citations: 3
     title: Elastic plate basis for the deformation and electron diffraction of twisted bilayer graphene on a substrate
     year: '2024'
   gnDTmI4AAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 79
+    citations: 80
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
@@ -82,16 +82,16 @@ papers:
     title: Atomistic and Continuum Simulations of 2D Materials With Environmental Effects
     year: '2023'
   gnDTmI4AAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: 2D Silver Nanosheet Assembly for an Isotropic, Stretchable, and Highly Conductive Nanomembrane
     year: '2025'
   gnDTmI4AAAAJ:qjMakFHDy7sC:
     citations: 0
-    title: Probing Topological Surface States and Conduction via Extended Defects in (BiSb)Te Films
-    year: '2025'
+    title: "Probing topological surface states and conduction via extended defects in (Bi1\u2212 xSbx) 2Te3 films"
+    year: '2026'
   gnDTmI4AAAAJ:u-x6o8ySG0sC:
     citations: 2
-    title: Application of Time Series Analysis on Kinetic Monte Carlo Simulations of Hyperthermal Oxidation of Graphite
+    title: Application of time series analysis on kinetic Monte Carlo simulations of hyperthermal oxidation of graphite
     year: '2025'
   gnDTmI4AAAAJ:u5HHmVD_uO8C:
     citations: 9
