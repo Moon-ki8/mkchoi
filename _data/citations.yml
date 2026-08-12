@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
   gnDTmI4AAAAJ:0EnyYjriUFMC:
     citations: 96
@@ -38,7 +38,7 @@ papers:
     title: Normal mode-guided transition pathway generation in proteins
     year: '2017'
   gnDTmI4AAAAJ:Se3iqnhoufwC:
-    citations: 80
+    citations: 81
     title: Type label framework for bonded force fields in LAMMPS
     year: '2024'
   gnDTmI4AAAAJ:Tyk-4Ss8FVUC:
@@ -70,7 +70,7 @@ papers:
     title: "Uncertainty quantification in stochastic simulations of nitrogen\u2013carbon gas\u2013surface interactions"
     year: '2026'
   gnDTmI4AAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: Interlocked Woven COFs as Molecular Metamaterials with Snap-through and Jamming Mechanics
     year: '2026'
   gnDTmI4AAAAJ:_kc_bZDykSQC:
